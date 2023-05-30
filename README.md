@@ -8,3 +8,7 @@ Get yourself a Poe token by signing up and going to the developer console to gra
 Enter a brief (or detailed!) character description and GPT will spit out a formatted W++ style character for use with various text based character AI systems.
 
 Files are saved in the character directory under the character description you gave.
+
+
+## To-do
+- Maybe add a jailbreak mode for the coomers
