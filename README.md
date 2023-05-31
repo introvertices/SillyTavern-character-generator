@@ -6,6 +6,7 @@ Simple Python script for generating W++ character descriptions via Poe's GPT
 `$ pip install -r requirements.txt`
 
 ### 2. Get yourself a Poe token by signing up and going to the developer console to grab the p-b value from the cookie. Put it in the script.
+https://poe.com/
 
 ### 3. Enter a brief (or detailed!) character description and GPT will spit out a formatted W++ style character for use with various text based character AI systems.
 
