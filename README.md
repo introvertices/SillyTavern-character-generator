@@ -3,7 +3,7 @@ Simple Python script for generating W++ character descriptions via Poe's GPT
 
 ### 1. Install requirements.txt and that's about it really
 
-$ pip install -r requirements.txt
+`$ pip install -r requirements.txt`
 
 ### 2. Get yourself a Poe token by signing up and going to the developer console to grab the p-b value from the cookie. Put it in the script.
 
@@ -11,14 +11,14 @@ $ pip install -r requirements.txt
 
 Files are saved in the character directory under the character description you gave and the date/time.
 
-## Done
-- Turned the bot into a real boy so he knows his purpose, his name is Scribe now. (31 May 2023)
-- Added jailbreak functionality for the coomers (31 May 2023)
-- Changed export to .JSON format with an improved and stricter prompt (31 May 2023)
-- Export is a little tideiur re: file naming (31 May 2023)
-
 ## To-do
-- Allow regenning the same character if it sucked
-- Graphical interface version
-- Fully automated mode for lazy people
+- [x] Turned the bot into a real boy so he knows his purpose, his name is Scribe now. (31 May 2023)
+- [x] Added jailbreak functionality for the coomers (31 May 2023)
+- [x] Changed export to .JSON format with an improved and stricter prompt (31 May 2023)
+- [x] Export is a little tidier re: file naming (31 May 2023)
+- [ ] Try and perfect the JSON export for when Scribe writes like an asshole
+- [ ] Allow regenning the same character if it sucked
+- [ ] Graphical interface version
+- [ ] Fully automated mode for lazy people
+- [ ] Add some params for startup
 
